@@ -95,12 +95,6 @@ src/
 git clone https://github.com/ARISTOTLE-CREATOR/nova-learn-dashboard.git
 ```
 
-## Navigate Into Project
-
-```bash
-cd nova-learn-dashboard
-```
-
 ## Install Dependencies
 
 ```bash
