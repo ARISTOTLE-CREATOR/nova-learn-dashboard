@@ -95,11 +95,7 @@ src/
 git clone https://github.com/ARISTOTLE-CREATOR/nova-learn-dashboard.git
 ```
 
-## Install Dependencies
 
-```bash
-npm install
-```
 
 ## Run Development Server
 
@@ -126,12 +122,3 @@ http://localhost:3000
 - Gamification system
 
 ---
-
-# ⭐ Support
-
-If you liked this project:
-
-- Give it a ⭐ on GitHub
-- Fork the repository
-- Share feedback
-- Contribute improvements
